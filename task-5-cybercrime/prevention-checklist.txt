@@ -1,0 +1,15 @@
+Stay Safe Online: Student Prevention Checklist
+
+1. Enable Two-Factor Authentication (2FA): Activate 2FA on your primary email, WhatsApp, and Instagram accounts to prevent unauthorized access even if your password is leaked.
+2. Avoid Public Wi-Fi for Banking:Do not log into banking apps or make UPI payments while connected to public campus or cafe Wi-Fi; use mobile data or a trusted VPN.
+3. Lock Your SIM Card: Set up a SIM PIN in your phone settings to prevent scammers from using your number for OTP-based identity theft if your phone is stolen.
+4. Audit Social Media Privacy: Set your social media profiles to 'Private' and remove your phone number or home address from public-facing bios.
+5. Report 'Urgent' Messages: If a friend asks for money via WhatsApp or DM, call them on a regular cellular call to verify their identity before responding.
+6. Keep Software Updated: Install all OS and security updates immediately, as these often contain critical patches for vulnerabilities used by hackers.
+7. UPI Safety - Receiving Funds: Never enter your UPI PIN or scan a QR code to receive money. UPI PINs are only required for sending or deducting money.
+8. UPI Safety - Merchant Verification:Always verify the "Verified Merchant" name displayed on the UPI app before clicking 'Pay' to ensure the money is going to the correct recipient.
+
+---
+Reporting Channels:
+National Cyber Crime Portal: [cybercrime.gov.in](https://cybercrime.gov.in)
+National Helpline Number:1930
